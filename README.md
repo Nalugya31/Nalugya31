@@ -21,4 +21,5 @@
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&color=555&labelColor=%23f1e05a&message=2.7)
 
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&color=555&labelColor=%233178c6&message=2.27)
+
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=54.06)
