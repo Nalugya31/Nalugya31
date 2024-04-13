@@ -1,2 +1,1 @@
-# Nalugya31
-### Hi there 👋
+# Hi there 👋! I am Nalugya Vanessa Suzan
