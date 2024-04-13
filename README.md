@@ -14,4 +14,4 @@
 </p>
 
 ### Most used languanges accross my projects 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=Python%EF%B8%B40.54%37)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=40.54)
