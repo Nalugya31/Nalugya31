@@ -23,3 +23,47 @@
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&color=555&labelColor=%233178c6&message=2.27)
 
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=54.06)
+
+### Favoirte technolgies
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+        <td align="center" width="96">
+      <a href="#">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+        <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+
+  </tr>
+</table>
