@@ -64,6 +64,11 @@
       </a>
       <br>Bootstrap
     </td>
-
+              <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/vercel1868" width="48" height="48" alt="vercel" />
+      </a>
+      <br>Vercel
+    </td>
   </tr>
 </table>
